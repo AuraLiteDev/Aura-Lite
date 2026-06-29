@@ -1,5 +1,9 @@
 # Aura Lite
 
+<p align="center">
+  <img src="logo.png" width="180">
+</p>
+
 ## Lightweight Android Emulator
 
 Aura Lite is a lightweight Android emulator build focused on:
